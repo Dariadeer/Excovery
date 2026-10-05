@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Excovery</id>
+    <version>1.0.0</version>
+    <authors>Excovery</authors>
+    <description>Roslyn analyzer that requires XML exception documentation for thrown exceptions.</description>
+    <repository type="git" commit="576926ace3190d657a327244cf1cbb14a627b4e1" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/julibut/Documents/projects/my/Excovery/Excovery/bin/Release/netstandard2.0/Excovery.dll" target="lib/netstandard2.0/Excovery.dll" />
+  </files>
+</package>

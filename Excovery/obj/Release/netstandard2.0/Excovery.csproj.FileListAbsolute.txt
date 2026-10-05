@@ -1,0 +1,10 @@
+/Users/julibut/Documents/projects/my/Excovery/Excovery/bin/Release/netstandard2.0/Excovery.deps.json
+/Users/julibut/Documents/projects/my/Excovery/Excovery/bin/Release/netstandard2.0/Excovery.dll
+/Users/julibut/Documents/projects/my/Excovery/Excovery/bin/Release/netstandard2.0/Excovery.pdb
+/Users/julibut/Documents/projects/my/Excovery/Excovery/obj/Release/netstandard2.0/Excovery.csproj.AssemblyReference.cache
+/Users/julibut/Documents/projects/my/Excovery/Excovery/obj/Release/netstandard2.0/Excovery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julibut/Documents/projects/my/Excovery/Excovery/obj/Release/netstandard2.0/Excovery.AssemblyInfoInputs.cache
+/Users/julibut/Documents/projects/my/Excovery/Excovery/obj/Release/netstandard2.0/Excovery.AssemblyInfo.cs
+/Users/julibut/Documents/projects/my/Excovery/Excovery/obj/Release/netstandard2.0/Excovery.csproj.CoreCompileInputs.cache
+/Users/julibut/Documents/projects/my/Excovery/Excovery/obj/Release/netstandard2.0/Excovery.dll
+/Users/julibut/Documents/projects/my/Excovery/Excovery/obj/Release/netstandard2.0/Excovery.pdb
